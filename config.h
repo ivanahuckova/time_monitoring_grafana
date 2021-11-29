@@ -9,11 +9,11 @@
 #define ZPIN 35 // z-axis of the accelerometer
 
 // Change these to change your tracked projects
-#define P1 "Coding"
-#define P2 "PR reviews"
-#define P3 "Hiring"
+#define P1 "Features"
+#define P2 "Bugs"
+#define P3 "PR reviews"
 #define P4 "Community"
-#define P5 "Team meetings"
+#define P5 "Team stuff"
 #define P6 "Self development"
 
 #define GC_PORT 443
